@@ -1,3 +1,5 @@
+xxxxxxxxx
+
 # Git Konfigurasyonu
 
 Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol gösterecektir. Bu projenin amacı, bilgisayarınızın ortamının doğru şekilde ayarlandığından emin olmak ve Git iş akışının bir önizlemesini oluşturmaktır. Her komutun ek işlevselliği ve açıklamaları ile Git'e daha derinlemesine bir giriş, WorkinTech’te devam eden öğreniminizin bir parçası olacaktır.
